@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Kmoney Math Game</title>
+  <script
+  src="https://kit.fontawesome.com/9eb162ac0d.js"
+  crossorigin="anonymous"
+  ></script>
+  <link rel="stylesheet" href="style.css" />
+  <script type="module" src="src/main.js" defer></script>
+  
+</head>
+<body>
+    <section class="game">
+      <header>
+        <span class="bubbleText">얼마를 거슬러줘야하지??</span>
+        <div class="btnAndtext">
+          <button class="game__button">
+            <i class="fas fa-play"></i>
+          </button>
+          <span class="game__timer">00</span>
+        </div>
+
+        <div class="quiz">
+          <input type="text" class="quizBox received"></input>
+          <input type="text" class="quizBox product"></input>
+
+            <input type="text" placeholder = "먼저 값을 써볼까요?" class="quizBox change__value"></input>
+        </div>
+
+        <span class="result__Text"> </span>
+
+      </header>
+
+      <section class="game__field">
+
+      </section>
+
+      <section class="game__field_btn">
+        <div class="game_retunCash">거스름돈 : <span class="game_cashResult">00000</span></div>
+        <button class="game_reset">다시하기</button>
+        <button class="game_submit">거스름돈 드리기</button>
+      </section>
+
+      
+
+      <section class="pop-up hide">
+        <button class="pop-up__refresh">
+          <i class="fas fa-redo"></i>
+        </button>
+        <span class="pop-up__message">  </span>
+      </section>
+    </section>
+
+</body>
+</html>
