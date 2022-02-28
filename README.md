@@ -5,9 +5,9 @@
 - https://algoroots.github.io/Kmoney-Math-Game-for-kids/
 
 <br/>
-
-<img width="600" alt="kmoney-math-game-bg" src="img/README_IMG/Kmoney-Math-Game-bg.png">
-
+<p align="center">
+<img width="700" alt="kmoney-math-game-bg" src="img/README_IMG/Kmoney-Math-Game-bg.png">
+</p>
 <br/><br/>
 
 # Introduction 🙌
