@@ -142,7 +142,7 @@ function showQuiz() {
   productPrice.value = n2;
 
   answer = n1 - n2;
-  console.log(answer);
+  console.log("거스름 돈: ", answer);
 
   inputEnter();
 }
@@ -166,7 +166,7 @@ function showResult() {
     returnCashCont.classList.add("play");
     input.classList.remove("play");
     playSound(correctSound);
-    result("맞았어요! 이제 금액에 맞게 거스름돈을 드려볼까요? ");
+    result("맞았어요! 이제 금액에 맞게 거스름 돈을 드려볼까요? ");
   } else {
     playSound(wrongSound);
     result("음..다시 한번 계산해볼까요?");
