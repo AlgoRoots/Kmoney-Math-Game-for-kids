@@ -124,10 +124,10 @@ header {
     box-shadow: 0;
   }
   50% {
-    box-shadow: 0 0 0 8px rgba(255, 255, 255, 0.3);
+    box-shadow: 0 0 0 8px rgba(255, 97, 97, 0.3);
   }
   100% {
-    box-shadow: 0 0 0 8px rgba(255, 255, 255, 0.9);
+    box-shadow: 0 0 0 8px rgba(252, 95, 95, 0.9);
   }
 }
 
@@ -158,7 +158,6 @@ header {
   color: var(--color-white);
   padding: 15px;
   margin-right: 15px;
-  border-bottom: solid 3px var(--color-white);
 }
 
 .game__field_btn button {
@@ -187,10 +186,10 @@ header {
     box-shadow: 0;
   }
   50% {
-    box-shadow: 0 0 0 5px rgba(255, 255, 255, 0.1);
+    box-shadow: 0 0 0 5px rgba(252, 108, 108, 0.3);
   }
   100% {
-    box-shadow: 0 0 0 5px rgba(255, 255, 255, 0.4);
+    box-shadow: 0 0 0 5px rgba(247, 108, 108, 0.9);
   }
 }
 

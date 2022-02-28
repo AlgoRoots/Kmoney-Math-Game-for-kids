@@ -234,7 +234,7 @@ function stopGameTimer() {
 
 function updateTimerText(time) {
   const seconds = time % 60;
-  timerIndicator.innerHTML = `${seconds}`;
+  timerIndicator.innerHTML = `${seconds}초`;
 }
 
 function showPopUp() {
