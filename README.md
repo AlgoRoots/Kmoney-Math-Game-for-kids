@@ -2,13 +2,13 @@
 
 ## 아이들을 위한 거스름돈 계산 게임 👧🧒
 
--
+- https://algoroots.github.io/Kmoney-Math-Game-for-kids/
 
 <br/>
 
 <img width="600" alt="kmoney-math-game-bg" src="img/README_IMG/Kmoney-Math-Game-bg.png">
 
-<br/><br/><br/>
+<br/><br/>
 
 # Introduction 🙌
 
@@ -16,13 +16,13 @@
 >
 > - 초등 3학년 과정 이상을 거친 아이들에게 적합한 게임입니다.
 
-<br/><br/><br/>
+<br/><br/>
 
 # SKill 🛠️
 
 - HTML, CSS, Javascript
 
-<br/><br/><br/>
+<br/><br/>
 
 # 구현 기능 💻
 
@@ -76,7 +76,6 @@
     }
     ```
 
-    <br/>
     <br/><br/>
 
 2.  ## 게임 타이머
@@ -116,11 +115,9 @@
     }
     ```
 
-    <br/>
+    <br/><br/>
 
 3.  ## 지폐, 동전 클릭시 값이 합산되어 실시간 업데이트
-
-    <br/>
 
     - game field 안에 넣어둔 지폐와 동전들을 target.mathces()를 활용하여 값이 클릭 될 때마다 거스름돈 값이 합산되어 업데이트 되게 구현하였다.
 
@@ -150,7 +147,7 @@
       }
       ```
 
-    <br/> <br/><br/>
+    <br/> <br/>
 
 4.  ## 거스름돈 계산 후 숫자를 넣는다.
 
@@ -204,7 +201,7 @@
       }
       ```
 
-    <br/> <br/><br/>
+    <br/> <br/>
 
 # 향후 보안사항 📃
 
